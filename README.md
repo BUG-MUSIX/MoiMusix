@@ -12,6 +12,10 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [˹ʙᴜɢ ✘ ϻʊs
 ━━━━━━━━━━━━━━━━━━━━
 
 [![ㅤ"𓆩᪵𝙈 𝛥 𝙓 𝙄 𝙈 〆❍ 𝗣𓆪̥](https://github-stats-alpha.vercel.app/api?username=SH251204 "Maxim")](https://github-stats-alpha.vercel.app/api?username=SH251204 "Maxim")
+<p>
+<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/SH251204/MoiMusix/commits/SH251204"> <img src="https://img.shields.io/github/last-commit/SH251204/MoiMusix?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
